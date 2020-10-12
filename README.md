@@ -1,2 +1,2 @@
 # Optimal-test-kit-based-strategy
-Optimal test-kit based strategy of epidemic spreading in heterogeneous   complex networks
+Codes used in our paper optimal test-kit based intervention strategy of epidemic spreading in heterogeneous complex networks are stored here.One scale-free network adjacency matrix is given albert-barabasi graph of node N=500 with average node-degree 14.First code neuron_fraction is used to generate fig (2.e) and (6.f) by changing coupling strenth and network adjacency.Second code neuron_mmo_network is used to generate fig. 1.(a-l),fig 2.(b-d) and fig. 6.(b-e).Third code neuron_network_isi is used to generate fig (4.a) and (4.b).
